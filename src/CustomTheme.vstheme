@@ -6,6 +6,12 @@
 				<Foreground Type="CT_RAW" Source="FFDCDCDC" />
 			</Color>
 		</Category>
+		<Category Name="Output Window" GUID="{9973efdf-317d-431c-8bc1-5e88cbfd4f7f}">
+			<Color Name="Plain Text">
+				<Background Type="CT_RAW" Source="FF000000" />
+				<Foreground Type="CT_RAW" Source="FFF1F1F1" />
+			</Color>
+		</Category>
 		<Category Name="Shell" GUID="{73708ded-2d56-4aad-b8eb-73b20d3f4bff}">
 			<Color Name="AccentFillDefault">
 				<Background Type="CT_RAW" Source="FF89B6E6" />
