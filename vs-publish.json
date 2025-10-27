@@ -1,0 +1,18 @@
+{
+  "$schema": "http://json.schemastore.org/vsix-publish",
+  "categories": [ "other" ],
+  "private": false,
+  "identity": {
+    "internalName": "VantaBlack",
+    "tags": [ "theme", "color", "oled" ]
+  },
+  "assetFiles": [
+    {
+      "pathOnDisk": "art/screenshot.png",
+      "targetPath": "art/screenshot.png"
+    }    
+  ],
+  "overview": "README.md",
+  "publisher": "MadsKristensen",
+  "repo": "https://github.com/MadsKristensen/VantaBlack"
+}
