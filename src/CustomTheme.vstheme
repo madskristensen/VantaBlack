@@ -23,6 +23,12 @@
 				<Foreground Type="CT_RAW" Source="FFF1F1F1" />
 			</Color>
 		</Category>
+		<Category Name="TreeView" GUID="{92ecf08e-8b13-4cf4-99e9-ae2692382185}">
+			<Color Name="Background">
+				<Background Type="CT_RAW" Source="FF000000" />
+				<Foreground Type="CT_RAW" Source="FFFAFAFA" />
+			</Color>
+		</Category>
 
 		<Category Name="Shell" GUID="{73708ded-2d56-4aad-b8eb-73b20d3f4bff}">
 			<Color Name="AccentFillDefault">
