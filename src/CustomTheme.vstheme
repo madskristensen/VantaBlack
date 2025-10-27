@@ -1,9 +1,11 @@
 <Themes>
 	<Theme Name="OLED Black" GUID="{1be65275-683f-42fd-833f-a1b2e3824947}" FallbackId="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+
+		<!-- Color tokens for editor and tool windows -->
 		<Category Name="Text Editor Text Manager Items" GUID="{58e96763-1d3b-4e05-b6ba-ff7115fd0b7b}">
 			<Color Name="Plain Text">
 				<Background Type="CT_RAW" Source="FF000000" />
-				<Foreground Type="CT_RAW" Source="FFF1F1F1" />
+				<Foreground Type="CT_RAW" Source="FFFAFAFA" />
 			</Color>
 		</Category>
 		<Category Name="Environment" GUID="{624ed9c3-bdfd-41fa-96c3-7c824ea32e3d}">
@@ -20,7 +22,7 @@
 		<Category Name="Output Window" GUID="{9973efdf-317d-431c-8bc1-5e88cbfd4f7f}">
 			<Color Name="Plain Text">
 				<Background Type="CT_RAW" Source="FF000000" />
-				<Foreground Type="CT_RAW" Source="FFF1F1F1" />
+				<Foreground Type="CT_RAW" Source="FFFAFAFA" />
 			</Color>
 		</Category>
 		<Category Name="TreeView" GUID="{92ecf08e-8b13-4cf4-99e9-ae2692382185}">
@@ -30,6 +32,7 @@
 			</Color>
 		</Category>
 
+		<!-- Tinted color theme tokens -->
 		<Category Name="Shell" GUID="{73708ded-2d56-4aad-b8eb-73b20d3f4bff}">
 			<Color Name="AccentFillDefault">
 				<Background Type="CT_RAW" Source="FF89B6E6" />
