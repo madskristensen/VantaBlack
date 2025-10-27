@@ -4,12 +4,12 @@
 //     Available from https://marketplace.visualstudio.com/items?itemName=MadsKristensen.VsixSynchronizer64
 // </auto-generated>
 // ------------------------------------------------------------------------------
-namespace BlueSteel
+namespace VantaBlack
 {
     internal sealed partial class Vsix
     {
         public const string Id = "VantaBlack.e1e706e2-05d3-4da9-8754-652cd8ab65f5";
-        public const string Name = "Vanta Black Theme";
+        public const string Name = "OLED Black Theme";
         public const string Description = @"A true dark theme optimized for OLED screens. This reduces the light in your eyes and might be helpful for eye strain.";
         public const string Language = "en-US";
         public const string Version = "1.0.1";

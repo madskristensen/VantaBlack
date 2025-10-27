@@ -2,7 +2,7 @@
 [vsixgallery]: http://vsixgallery.com/extension/VantaBlack.e1e706e2-05d3-4da9-8754-652cd8ab65f5/
 [repo]:https://github.com/madskristensen/VantaBlack
 
-# Blue Steel - Fluent theme for Visual Studio
+# OLED Black - Fluent theme for Visual Studio
 
 [![Build](https://github.com/madskristensen/VantaBlack/actions/workflows/build.yaml/badge.svg)](https://github.com/madskristensen/VantaBlack/actions/workflows/build.yaml)
 
