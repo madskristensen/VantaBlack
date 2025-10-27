@@ -12,7 +12,7 @@ namespace VantaBlack
         public const string Name = "OLED Black Theme";
         public const string Description = @"A true dark theme optimized for OLED screens. This reduces the light in your eyes and might be helpful for eye strain.";
         public const string Language = "en-US";
-        public const string Version = "1.0.1";
+        public const string Version = "1.0.900";
         public const string Author = "Mads Kristensen";
         public const string Tags = "theme, oled, dark, black";
         public const bool IsPreview = true;

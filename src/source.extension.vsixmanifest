@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="VantaBlack.e1e706e2-05d3-4da9-8754-652cd8ab65f5" Version="1.0.1" Language="en-US" Publisher="Mads Kristensen" />
+        <Identity Id="VantaBlack.e1e706e2-05d3-4da9-8754-652cd8ab65f5" Version="1.0.900" Language="en-US" Publisher="Mads Kristensen" />
         <DisplayName>OLED Black Theme</DisplayName>
         <Description xml:space="preserve">A true dark theme optimized for OLED screens. This reduces the light in your eyes and might be helpful for eye strain.</Description>
         <MoreInfo>https://github.com/madskristensen/VantaBlack</MoreInfo>

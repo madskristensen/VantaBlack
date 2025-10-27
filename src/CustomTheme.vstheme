@@ -1,5 +1,5 @@
 <Themes>
-	<Theme Name="Blue Steel (Light)" GUID="{40590dc7-aa13-4416-8611-646074a6b609}" FallbackId="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+	<Theme Name="OLED Black" GUID="{1be65275-683f-42fd-833f-a1b2e3824947}" FallbackId="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
 		<Category Name="Text Editor Text Manager Items" GUID="{58e96763-1d3b-4e05-b6ba-ff7115fd0b7b}">
 			<Color Name="Plain Text">
 				<Background Type="CT_RAW" Source="FF000000" />
