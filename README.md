@@ -17,6 +17,10 @@ A true dark theme optimized for OLED screens. This reduces the light in your eye
 
 ![Screenshot](art/screenshot.png)
 
+![editor](art/editor.png)
+
+![Menu](art/menu.png)
+
 ## How can I help?
 If you enjoy using the extension, please give it a ★★★★★ rating on the [Visual Studio Marketplace][marketplace].
 
