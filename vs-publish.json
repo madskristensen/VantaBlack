@@ -4,7 +4,7 @@
   "private": false,
   "identity": {
     "internalName": "VantaBlack",
-    "tags": [ "theme", "color", "oled" ]
+    "tags": [ "theme", "color", "oled", "dark", "black" ]
   },
   "assetFiles": [
     {
