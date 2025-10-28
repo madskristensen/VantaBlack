@@ -10,7 +10,15 @@
     {
       "pathOnDisk": "art/screenshot.png",
       "targetPath": "art/screenshot.png"
-    }    
+    },
+    {
+      "pathOnDisk": "art/editor.png",
+      "targetPath": "art/editor.png"
+    },
+    {
+      "pathOnDisk": "art/menu.png",
+      "targetPath": "art/menu.png"
+    }
   ],
   "overview": "README.md",
   "publisher": "MadsKristensen",
